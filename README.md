@@ -1,6 +1,6 @@
 ## ST-SUITE Dashboard
 
-[![Live Demo](https://img.shields.io/badge/demo-live-blue.svg)]()
+[![Live Demo](https://img.shields.io/badge/demo-live-blue.svg)](https://glistening-scone-d4237a.netlify.app/)
 
 ## Installation
 
